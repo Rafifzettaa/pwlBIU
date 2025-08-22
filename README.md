@@ -46,13 +46,6 @@ _(Karena berupa landing page statis, tidak memerlukan server khusus.)_
 
 ---
 
-## 📸 Demo
-
-Jika GitHub Pages diaktifkan, landing page dapat diakses melalui:  
-👉 [Link Demo GitHub Pages](https://rafifzettaa.github.io/pwlBIU) _(opsional, aktifkan via Settings > Pages)_
-
----
-
 ## 🧑‍💻 Kontributor
 
 - **Rafif Zetta Rajendra Pragiwoko**
